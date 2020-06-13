@@ -1,5 +1,10 @@
 # LexiLifeFun
-LexiLife.io Lighting &amp
+LexiLife.io Lighting and API usage.
+
+https://lexidevice.com/developer/login ... register
+https://lexidevice.com/developer/api_flow_docs
+https://lexidevice.com/developer/hub_api_tester
+https://lexidevice.com/developer/cloud_api_tester
 
 See instructions in lexi.py
 
