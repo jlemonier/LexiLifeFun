@@ -9,7 +9,9 @@ See instructions in lexi.py
 # set lexi_client_id=
 # set lexi_client_secret=
 
-parameter_hub_name = "Ratto Kickstarter"  # This helps the code choose from your list of hubs
+# This helps the code choose from your list of hubs
+parameter_hub_name = "Ratto Kickstarter"  
+
 user_guid          = "1e8e23d4-5288-485c-bff0-b01d4b4b1b00"  # From Cloud Api Tester
 
 python lexi_fun.py
